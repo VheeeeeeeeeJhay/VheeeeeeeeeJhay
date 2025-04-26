@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm jv</h1>
+<h1 align="center">Hi 👋, I'm VheeeeeeeeeJhay</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jv&label=Profile%20views&color=0e75b6&style=flat" alt="jv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VheeeeeeeeeJhay&label=Profile%20views&color=0e75b6&style=flat" alt="VheeeeeeeeeJhay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jv" alt="jv" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VheeeeeeeeeJhay" alt="VheeeeeeeeeJhay" /></a> </p>
 
 - 🔭 I’m currently working on **jv**
 
