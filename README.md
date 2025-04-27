@@ -2,7 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jv/Jv/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VheeeeeeeeeJhay/VheeeeeeeeeJhay/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VheeeeeeeeeJhay/VheeeeeeeeeJhay/output/github-snake.svg" />
