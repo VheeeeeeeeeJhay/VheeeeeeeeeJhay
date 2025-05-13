@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is VheeeeeeeeeJhay and I'm currently an Intern, from the Philippines</h2>
+
 
 ###
 
