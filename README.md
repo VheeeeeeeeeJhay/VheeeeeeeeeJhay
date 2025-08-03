@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left"></> Language, Library, and Framework</h2>
+<h2 align="left">🧩 Language, Library, and Framework</h2>
 
 ###
 
